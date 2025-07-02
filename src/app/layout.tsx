@@ -15,11 +15,11 @@ const orbitron = Orbitron({
 });
 
 export const metadata: Metadata = {
-  title: "Hackfinity 2025 - World's Biggest Agentic AI Hackathon",
-  description: "Join Hackfinity 2025 - Infinite Fun. Infinite Creativity. From Caffeine to Code – Experience the Best. October 18, 2025.",
+  title: "HackFixity 2025 - World's Biggest Agentic AI Hackathon",
+  description: "Join HackFixity 2025 - Infinite Fun. Infinite Creativity. From Caffeine to Code – Experience the Best. October 18, 2025.",
   keywords: "hackathon, AI, machine learning, blockchain, innovation, programming, developers",
   openGraph: {
-    title: "Hackfinity 2025 - World's Biggest Agentic AI Hackathon",
+    title: "HackFixity 2025 - World's Biggest Agentic AI Hackathon",
     description: "Join thousands of developers in the ultimate coding challenge. Huge prizes, amazing swags, and infinite creative freedom.",
     type: "website",
   },

@@ -58,7 +58,7 @@ export default function HeroSection() {
               transition={{ duration: 0.8, type: "spring", bounce: 0.4 }}
             >
               <span className="bg-gradient-to-r from-purple-400 via-pink-400 to-purple-400 bg-clip-text text-transparent animate-gradient bg-300%">
-                Hackfinity
+                HackFixity
               </span>
             </motion.h1>
             

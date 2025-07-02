@@ -17,7 +17,7 @@ export default function Loading() {
           animate={{ opacity: 1 }}
           transition={{ delay: 0.2 }}
         >
-          Loading Hackfinity
+          Loading HackFixity
         </motion.h2>
         <motion.p
           className="text-purple-300 mt-2"
